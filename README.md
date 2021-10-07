@@ -10,7 +10,7 @@
 
 ## Background
 
-This was a group project made with [William Yap](https://github.com/williamyap90), [Matthew Webb](https://github.com/JustMatty26) and (Ammar Hassan)[https://github.com/]
+This was a group project made with [William Yap](https://github.com/williamyap90), [Matthew Webb](https://github.com/JustMatty26) and [Ammar Hassan](https://github.com/mahassan/)
 
 Deciding where to eat is difficult, Just Choose allows one person to provide a shortlist of restaurants, and provide the list for participants to vote on their choice.
 
