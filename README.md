@@ -10,7 +10,7 @@
 
 ## Background
 
-As a group project Just Choose was created as a fun way to make group decisions.
+This was a group project made with [William Yap](https://github.com/williamyap90), [Matthew Webb](https://github.com/JustMatty26) and (Ammar Hassan)[https://github.com/]
 
 Deciding where to eat is difficult, Just Choose allows one person to provide a shortlist of restaurants, and provide the list for participants to vote on their choice.
 
@@ -29,7 +29,7 @@ Link to the hosted Just Choose here.
 
 Just Choose - https://just-choose.netlify.app/
 
-Backend repository - https://github.com/williamyap90/be-just-choose
+Backend repository - https://github.com/Sgavinmills/be-just-choose
 
 <a name=technologies></a>
 
@@ -51,7 +51,7 @@ Follow these steps to download the project onto your own machine:
 -   Clone the repo
 
 ```
-git clone https://github.com/Sgavinmills/fe-just-choose
+git clone https://github.com/Sgavinmills/fe-just-choose.git
 ```
 
 -   Navigate into the src directory
